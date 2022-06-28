@@ -1,6 +1,6 @@
 /*---------------------------------------------------------
  * NOB AUTOCOMPLETION
- * This is licensed under GNU GPL v3
+ * This is licensed under GNU GPL v2
  *--------------------------------------------------------*/
 
 import * as vscode from 'vscode';
