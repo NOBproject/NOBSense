@@ -1,2 +1,2 @@
-# NOBSyntax
-NOB Syntax Highlighting extension for VS Code
+# NOBSense
+NOB Intellisense extension for VS Code
